@@ -221,3 +221,16 @@ Export your Data to Excel or Print from your smartphone.
 ## :eyes: **Version**
 - [ ] React-Native 
 - [x] Expo 35
+
+Hi! I can upgrade your project from Node 12 to Node 18, migrate from react-scripts to Vite, and handle all breaking changes along the way.
+
+Here are steps how I can help you within short times.
+-Upgrade project environment and engines to Node 18.
+-Replace react-scripts with Vite and update build/start scripts.
+-Add and configure vite.config.js for React and any aliases/env setup.
+-Update all dependencies using npm-check-updates or similar tools.
+-Refactor code to fix breaking changes from updated packages.
+-Verify functionality with thorough testing in development and production builds.
+
+Looking forward to building a powerful property management platform for you!
+Best regards,
