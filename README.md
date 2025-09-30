@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/progress-40%25-brightgreen.svg" alt="PRs Welcome">
   </a>
   <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/contribuition-welcome-brightgreen.svg" alt="PRs Welcome">
+    <img src="https://img.shields.io/badge/contribuition-welcome-brightgreen.svg" alt="PR Welcome">
   </a>
   <a href="https://saythanks.io/to/wendelfreitas">
       <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
